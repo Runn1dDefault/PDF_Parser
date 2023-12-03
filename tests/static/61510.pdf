@@ -1,0 +1,6765 @@
+%PDF-1.3
+1 0 obj
+<<
+/Type /Catalog
+/Pages 4 0 R
+/Outlines 3 0 R
+/PageMode /UseOutlines
+/PageLayout /SinglePage
+>>
+endobj
+2 0 obj
+<<
+/Keywords ( )
+>>
+endobj
+572 0 obj
+<<
+/Parent 3 0 R
+/Title (ASI-61510.1)
+/First 573 0 R
+/Last 574 0 R
+/Count -2
+/Dest [6 0 R /FitH 9999]
+>>
+endobj
+573 0 obj
+<<
+/Parent 572 0 R
+/Title (Page 1)
+/Next 574 0 R
+/Dest [6 0 R /FitH 9999]
+>>
+endobj
+574 0 obj
+<<
+/Parent 572 0 R
+/Title (Page 2)
+/Prev 573 0 R
+/Dest [295 0 R /FitH 9999]
+>>
+endobj
+3 0 obj
+<<
+/Type /Outlines
+/Count 1
+/First 572 0 R
+/Last 572 0 R
+>>
+endobj
+5 0 obj
+[/PDF /Text /ImageB /ImageC]
+endobj
+6 0 obj
+<<
+/Type /Page
+/Parent 4 0 R
+/MediaBox [0 0 612 792]
+/Contents [61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R 73 0 R 75 0 R 77 0 R 79 0 R 81 0 R 83 0 R 85 0 R 87 0 R 89 0 R 91 0 R 93 0 R 95 0 R 97 0 R 99 0 R 101 0 R 103 0 R 105 0 R 107 0 R 109 0 R 111 0 R 113 0 R 115 0 R 117 0 R 119 0 R 121 0 R 123 0 R 125 0 R 127 0 R 129 0 R 131 0 R 133 0 R 135 0 R 137 0 R 139 0 R  8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 141 0 R 142 0 R 143 0 R 144 0 R 145 0 R 146 0 R 147 0 R 148 0 R 149 0 R 150 0 R 151 0 R 152 0 R 153 0 R 154 0 R 155 0 R 156 0 R 157 0 R 158 0 R 159 0 R 161 0 R 162 0 R 163 0 R 164 0 R 165 0 R 166 0 R 167 0 R 168 0 R 169 0 R 170 0 R 171 0 R 172 0 R 173 0 R 174 0 R 175 0 R 176 0 R 177 0 R 178 0 R 179 0 R 180 0 R 181 0 R 182 0 R 183 0 R 184 0 R 185 0 R 186 0 R 187 0 R 188 0 R 189 0 R 190 0 R 191 0 R 192 0 R 193 0 R 194 0 R 195 0 R 196 0 R 197 0 R 198 0 R 199 0 R 200 0 R 201 0 R 202 0 R 203 0 R 204 0 R 205 0 R 206 0 R 207 0 R 208 0 R 209 0 R 210 0 R 211 0 R 212 0 R 213 0 R 214 0 R 215 0 R 216 0 R 217 0 R 218 0 R 219 0 R 220 0 R 221 0 R 222 0 R 223 0 R 224 0 R 225 0 R 226 0 R 227 0 R 228 0 R 229 0 R 230 0 R 231 0 R 232 0 R 233 0 R 234 0 R 235 0 R 236 0 R 237 0 R 238 0 R 239 0 R 240 0 R 241 0 R 242 0 R 243 0 R 244 0 R 245 0 R 246 0 R 247 0 R 248 0 R 249 0 R 250 0 R 251 0 R 252 0 R 253 0 R 254 0 R 255 0 R 256 0 R 257 0 R 258 0 R 259 0 R 260 0 R 261 0 R 262 0 R 263 0 R 264 0 R 265 0 R 266 0 R 267 0 R 268 0 R 269 0 R 270 0 R 271 0 R 272 0 R 273 0 R 274 0 R 275 0 R 276 0 R 277 0 R 278 0 R 279 0 R 280 0 R 281 0 R 282 0 R 283 0 R 284 0 R 285 0 R 288 0 R 291 0 R 294 0 R ]
+/Resources <</Font <</F7 7 0 R /F54 54 0 R /F140 140 0 R /F160 160 0 R >> /ExtGState <</G60 60 0 R /G62 62 0 R /G64 64 0 R /G66 66 0 R /G68 68 0 R /G70 70 0 R /G72 72 0 R /G74 74 0 R /G76 76 0 R /G78 78 0 R /G80 80 0 R /G82 82 0 R /G84 84 0 R /G86 86 0 R /G88 88 0 R /G90 90 0 R /G92 92 0 R /G94 94 0 R /G96 96 0 R /G98 98 0 R /G100 100 0 R /G102 102 0 R /G104 104 0 R /G106 106 0 R /G108 108 0 R /G110 110 0 R /G112 112 0 R /G114 114 0 R /G116 116 0 R /G118 118 0 R /G120 120 0 R /G122 122 0 R /G124 124 0 R /G126 126 0 R /G128 128 0 R /G130 130 0 R /G132 132 0 R /G134 134 0 R /G136 136 0 R /G138 138 0 R /G286 286 0 R /G289 289 0 R /G292 292 0 R >> /XObject <</I287 287 0 R /I290 290 0 R /I293 293 0 R >> /ProcSet 5 0 R>>
+>>
+endobj
+295 0 obj
+<<
+/Type /Page
+/Parent 4 0 R
+/MediaBox [0 0 612 792]
+/Contents [343 0 R 345 0 R 347 0 R 349 0 R 351 0 R 353 0 R 355 0 R 357 0 R 359 0 R 361 0 R 363 0 R 365 0 R 367 0 R 369 0 R 371 0 R 373 0 R 375 0 R 377 0 R 379 0 R 381 0 R 383 0 R 385 0 R 387 0 R 389 0 R 391 0 R 393 0 R 395 0 R 397 0 R 399 0 R 401 0 R 403 0 R 405 0 R 407 0 R 409 0 R 411 0 R 413 0 R 415 0 R 417 0 R 419 0 R 421 0 R  296 0 R 297 0 R 298 0 R 299 0 R 300 0 R 301 0 R 302 0 R 303 0 R 304 0 R 305 0 R 306 0 R 307 0 R 308 0 R 309 0 R 310 0 R 311 0 R 312 0 R 313 0 R 314 0 R 315 0 R 316 0 R 317 0 R 318 0 R 319 0 R 320 0 R 321 0 R 322 0 R 323 0 R 324 0 R 325 0 R 326 0 R 327 0 R 328 0 R 329 0 R 330 0 R 331 0 R 332 0 R 333 0 R 334 0 R 335 0 R 336 0 R 337 0 R 338 0 R 339 0 R 340 0 R 341 0 R 422 0 R 423 0 R 424 0 R 425 0 R 426 0 R 427 0 R 428 0 R 429 0 R 430 0 R 431 0 R 432 0 R 433 0 R 434 0 R 435 0 R 436 0 R 437 0 R 438 0 R 439 0 R 440 0 R 441 0 R 442 0 R 443 0 R 444 0 R 445 0 R 446 0 R 447 0 R 448 0 R 449 0 R 450 0 R 451 0 R 452 0 R 453 0 R 454 0 R 455 0 R 456 0 R 457 0 R 458 0 R 459 0 R 460 0 R 461 0 R 462 0 R 463 0 R 464 0 R 465 0 R 466 0 R 467 0 R 468 0 R 469 0 R 470 0 R 471 0 R 472 0 R 473 0 R 474 0 R 475 0 R 476 0 R 477 0 R 478 0 R 479 0 R 480 0 R 481 0 R 482 0 R 483 0 R 484 0 R 485 0 R 486 0 R 487 0 R 488 0 R 489 0 R 490 0 R 491 0 R 492 0 R 493 0 R 494 0 R 495 0 R 496 0 R 497 0 R 498 0 R 499 0 R 500 0 R 501 0 R 502 0 R 503 0 R 504 0 R 505 0 R 506 0 R 507 0 R 508 0 R 509 0 R 510 0 R 511 0 R 512 0 R 513 0 R 514 0 R 515 0 R 516 0 R 517 0 R 518 0 R 519 0 R 520 0 R 521 0 R 522 0 R 523 0 R 524 0 R 525 0 R 526 0 R 527 0 R 528 0 R 529 0 R 530 0 R 531 0 R 532 0 R 533 0 R 534 0 R 535 0 R 536 0 R 537 0 R 538 0 R 539 0 R 540 0 R 541 0 R 542 0 R 543 0 R 544 0 R 545 0 R 546 0 R 547 0 R 548 0 R 549 0 R 550 0 R 551 0 R 552 0 R 553 0 R 554 0 R 555 0 R 556 0 R 557 0 R 558 0 R 559 0 R 560 0 R 561 0 R 562 0 R 563 0 R 564 0 R 565 0 R 567 0 R 569 0 R 571 0 R ]
+/Resources <</Font <</F7 7 0 R /F54 54 0 R /F140 140 0 R /F160 160 0 R >> /ExtGState <</G342 342 0 R /G344 344 0 R /G346 346 0 R /G348 348 0 R /G350 350 0 R /G352 352 0 R /G354 354 0 R /G356 356 0 R /G358 358 0 R /G360 360 0 R /G362 362 0 R /G364 364 0 R /G366 366 0 R /G368 368 0 R /G370 370 0 R /G372 372 0 R /G374 374 0 R /G376 376 0 R /G378 378 0 R /G380 380 0 R /G382 382 0 R /G384 384 0 R /G386 386 0 R /G388 388 0 R /G390 390 0 R /G392 392 0 R /G394 394 0 R /G396 396 0 R /G398 398 0 R /G400 400 0 R /G402 402 0 R /G404 404 0 R /G406 406 0 R /G408 408 0 R /G410 410 0 R /G412 412 0 R /G414 414 0 R /G416 416 0 R /G418 418 0 R /G420 420 0 R /G566 566 0 R /G568 568 0 R /G570 570 0 R >> /XObject <</I287 287 0 R /I290 290 0 R /I293 293 0 R >> /ProcSet 5 0 R>>
+>>
+endobj
+4 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [6 0 R 295 0 R ]
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F7
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+>>
+endobj
+8 0 obj
+<</Length 168>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 714.240 Tm
+(                                         ACCOUNTING                               ) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Length 168>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 703.080 Tm
+(KEITH BRIDGES                                                                     ) Tj
+ET
+endstream
+endobj
+10 0 obj
+<</Length 168>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 691.920 Tm
+(110 HARBIN DRIVE                                                                  ) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Length 168>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 680.760 Tm
+(SWANNONOA, NC 28778                        PAGE 1                                 ) Tj
+ET
+endstream
+endobj
+12 0 obj
+<</Length 142>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 669.600 Tm
+(HOME:980-253-2473 CONT:980-253-2473                     ) Tj
+ET
+endstream
+endobj
+13 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 658.440 Tm
+(BUS:              CELL:                                8850 JAX PUTNAM          ) Tj
+ET
+endstream
+endobj
+14 0 obj
+<</Length 171>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 624.960 Tm
+(           20  JEEP WRANGLER UNLIMI  1C4HJXEN7LW180561           35811/35811  T3055  ) Tj
+ET
+endstream
+endobj
+15 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 602.640 Tm
+(12SEP22 IS) Tj
+ET
+endstream
+endobj
+16 0 obj
+<</Length 165>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 591.480 Tm
+(12SEP22 DD                   WAIT 04OCT22                0.00  CASH     07OCT22) Tj
+ET
+endstream
+endobj
+17 0 obj
+<</Length 145>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 580.320 Tm
+(                                       ENG:2.0_Liter_Turbo ) Tj
+ET
+endstream
+endobj
+18 0 obj
+<</Length 116>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 558.000 Tm
+(08:00 04OCT22  10:49 07OCT22  ) Tj
+ET
+endstream
+endobj
+19 0 obj
+<</Length 170>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 546.840 Tm
+(LINE OPCODE TECH TYPE A/HRS S/HRS                      LIST         NET        TOTAL) Tj
+ET
+endstream
+endobj
+20 0 obj
+<</Length 157>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 535.680 Tm
+(A [CUSTOMER STATES THERE IS A NOISE IN FRONT THINKS IT COULD BE A WHEEL) Tj
+ET
+endstream
+endobj
+21 0 obj
+<</Length 157>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 524.520 Tm
+(        BEARING                                                        ) Tj
+ET
+endstream
+endobj
+22 0 obj
+<</Length 157>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 513.360 Tm
+(CAUSE: F                                                               ) Tj
+ET
+endstream
+endobj
+23 0 obj
+<</Length 171>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 502.200 Tm
+(CONCERN CODE:                                                                        ) Tj
+ET
+endstream
+endobj
+24 0 obj
+<</Length 140>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 491.040 Tm
+(     03500501 Bearings, pinion - Replace All others   ) Tj
+ET
+endstream
+endobj
+25 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 479.880 Tm
+(            8327  WJE  5.27  3.50  12075   41416                 414.16   414.16) Tj
+ET
+endstream
+endobj
+26 0 obj
+<</Length 119>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 468.720 Tm
+(        1 68393980AA SEAL-DRIVE  ) Tj
+ET
+endstream
+endobj
+27 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 457.560 Tm
+(        PINION                      2325    3875     0   38.75    38.75    38.75) Tj
+ET
+endstream
+endobj
+28 0 obj
+<</Length 119>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 446.400 Tm
+(        1 68398694AA             ) Tj
+ET
+endstream
+endobj
+29 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 435.240 Tm
+(        BEARING-DRIVE PINION        6255   10500     0  105.00   105.00   105.00) Tj
+ET
+endstream
+endobj
+30 0 obj
+<</Length 119>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 424.080 Tm
+(        1 68393926AA SPACER-DRIVE) Tj
+ET
+endstream
+endobj
+31 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 412.920 Tm
+(        PINION BEARING              1025    1710     0   17.10    17.10    17.10) Tj
+ET
+endstream
+endobj
+32 0 obj
+<</Length 119>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 401.760 Tm
+(        1 68400363AA             ) Tj
+ET
+endstream
+endobj
+33 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 390.600 Tm
+(        BEARING-DRIVE PINION        3830    6385     0   63.85    63.85    63.85) Tj
+ET
+endstream
+endobj
+34 0 obj
+<</Length 119>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 379.440 Tm
+(        2 68391575AA             ) Tj
+ET
+endstream
+endobj
+35 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 368.280 Tm
+(        BEARING-DIFFERENTIAL SIDE  12540   21000     0  105.00   105.00   210.00) Tj
+ET
+endstream
+endobj
+36 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 357.120 Tm
+(        1 68393925AA NUT-PINION      550     920     0    9.20     9.20     9.20) Tj
+ET
+endstream
+endobj
+37 0 obj
+<</Length 119>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 345.960 Tm
+(        2 68393973AA SEAL-AXLE   ) Tj
+ET
+endstream
+endobj
+38 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 334.800 Tm
+(        DRIVE SHAFT                 4020    6700     0   33.50    33.50    67.00) Tj
+ET
+endstream
+endobj
+39 0 obj
+<</Length 119>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 323.640 Tm
+(        2 68499023AA BEARING-AXLE) Tj
+ET
+endstream
+endobj
+40 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 312.480 Tm
+(        SHAFT                      20200   34000     0  170.00   170.00   340.00) Tj
+ET
+endstream
+endobj
+41 0 obj
+<</Length 119>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 301.320 Tm
+(        2 68499022AA RING-AXLE   ) Tj
+ET
+endstream
+endobj
+42 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 290.160 Tm
+(        SHAFT                       3430    5720     0   28.60    28.60    57.20) Tj
+ET
+endstream
+endobj
+43 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 279.000 Tm
+(        1 68218657AB LUBE-AXLE      1606    3003     0   30.03    30.03    30.03) Tj
+ET
+endstream
+endobj
+44 0 obj
+<</Length 119>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 267.840 Tm
+(        1 68393981AA GASKET-REAR ) Tj
+ET
+endstream
+endobj
+45 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 256.680 Tm
+(        COVER                       2975    4960     0   49.60    49.60    49.60) Tj
+ET
+endstream
+endobj
+46 0 obj
+<</Length 140>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 245.520 Tm
+(     03400809 REPLACE DIFF SIDE BEARINGS              ) Tj
+ET
+endstream
+endobj
+47 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 234.360 Tm
+(            8327  WJE  0.00  0.50   1725    5917                  59.17    59.17) Tj
+ET
+endstream
+endobj
+48 0 obj
+<</Length 140>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 223.200 Tm
+(     03200506 REPLACE RIGHT REAR AXLEBEARING          ) Tj
+ET
+endstream
+endobj
+49 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 212.040 Tm
+(            8327  WJE  0.00  0.50   1725    5917                  59.17    59.17) Tj
+ET
+endstream
+endobj
+50 0 obj
+<</Length 140>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 200.880 Tm
+(     03200507 REPLACE AXLE TUBE BEARING               ) Tj
+ET
+endstream
+endobj
+51 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 189.720 Tm
+(            8327  WJE  0.00  0.50   1725    5917                  59.17    59.17) Tj
+ET
+endstream
+endobj
+52 0 obj
+<</Length 147>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 178.560 Tm
+(                                      58756      98773 TPARTS) Tj
+ET
+endstream
+endobj
+53 0 obj
+<</Length 147>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 167.400 Tm
+(                                      17250      59167 TLABOR) Tj
+ET
+endstream
+endobj
+54 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F54
+/BaseFont /Courier-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+55 0 obj
+<</Length 121>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F54 14.00 Tf
+1.000 0.000 -0.000 1.000 289.584 738.000 Tm
+(  61510                          ) Tj
+ET
+endstream
+endobj
+56 0 obj
+<</Length 126>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.30 Tf
+1.000 0.000 -0.000 1.000 18.000 738.000 Tm
+(CUSTOMER #: 101076                      ) Tj
+ET
+endstream
+endobj
+57 0 obj
+<</Length 171>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.30 Tf
+1.000 0.000 -0.000 1.000 18.000 751.824 Tm
+(                                                                                     ) Tj
+ET
+endstream
+endobj
+58 0 obj
+<</Length 102>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F54 12.00 Tf
+1.000 0.000 -0.000 1.000 252.000 12.240 Tm
+(ACCOUNTING COPY) Tj
+ET
+endstream
+endobj
+59 0 obj
+<</Length 104>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 12.00 Tf
+1.000 0.000 -0.000 1.000 18.000 747.000 Tm
+(                  ) Tj
+ET
+endstream
+endobj
+60 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 0.03
+/BM /Multiply
+>>
+endobj
+61 0 obj
+<</Length 64>>
+stream
+q
+/G60 gs
+.1 w
+0.00 0.00 0.00 rg
+18.50 645.55 574.6 10.6 re
+f
+Q
+
+endstream
+endobj
+62 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 0.03
+/BM /Multiply
+>>
+endobj
+63 0 obj
+<</Length 64>>
+stream
+q
+/G62 gs
+.1 w
+0.00 0.00 0.00 rg
+18.50 612.22 574.6 10.6 re
+f
+Q
+
+endstream
+endobj
+64 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 0.03
+/BM /Multiply
+>>
+endobj
+65 0 obj
+<</Length 64>>
+stream
+q
+/G64 gs
+.1 w
+0.00 0.00 0.00 rg
+18.50 578.59 202.3 10.6 re
+f
+Q
+
+endstream
+endobj
+66 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 0.03
+/BM /Multiply
+>>
+endobj
+67 0 obj
+<</Length 65>>
+stream
+q
+/G66 gs
+.1 w
+0.00 0.00 0.00 rg
+397.44 154.51 195.6 10.6 re
+f
+Q
+
+endstream
+endobj
+68 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 0.03
+/BM /Multiply
+>>
+endobj
+69 0 obj
+<</Length 64>>
+stream
+q
+/G68 gs
+.1 w
+0.00 0.00 0.00 rg
+492.26 42.98 100.8 21.8 re
+f
+Q
+
+endstream
+endobj
+70 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+71 0 obj
+<</Length 63>>
+stream
+q
+/G70 gs
+.1 w
+0.00 0.00 0.00 rg
+112.54 623.02 0.7 33.6 re
+f
+Q
+
+endstream
+endobj
+72 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+73 0 obj
+<</Length 63>>
+stream
+q
+/G72 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 656.14 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+74 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+75 0 obj
+<</Length 63>>
+stream
+q
+/G74 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 555.84 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+76 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+77 0 obj
+<</Length 63>>
+stream
+q
+/G76 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 578.16 203.0 0.7 re
+f
+Q
+
+endstream
+endobj
+78 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+79 0 obj
+<</Length 63>>
+stream
+q
+/G78 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 544.54 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+80 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+81 0 obj
+<</Length 63>>
+stream
+q
+/G80 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 644.90 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+82 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+83 0 obj
+<</Length 63>>
+stream
+q
+/G82 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 611.50 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+84 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+85 0 obj
+<</Length 63>>
+stream
+q
+/G84 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 589.18 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+86 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+87 0 obj
+<</Length 63>>
+stream
+q
+/G86 gs
+.1 w
+0.00 0.00 0.00 rg
+390.02 623.02 0.7 33.6 re
+f
+Q
+
+endstream
+endobj
+88 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+89 0 obj
+<</Length 63>>
+stream
+q
+/G88 gs
+.1 w
+0.00 0.00 0.00 rg
+450.94 623.02 0.7 33.6 re
+f
+Q
+
+endstream
+endobj
+90 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+91 0 obj
+<</Length 63>>
+stream
+q
+/G90 gs
+.1 w
+0.00 0.00 0.00 rg
+200.38 589.68 0.7 33.3 re
+f
+Q
+
+endstream
+endobj
+92 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+93 0 obj
+<</Length 63>>
+stream
+q
+/G92 gs
+.1 w
+0.00 0.00 0.00 rg
+301.90 589.68 0.7 33.3 re
+f
+Q
+
+endstream
+endobj
+94 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+95 0 obj
+<</Length 63>>
+stream
+q
+/G94 gs
+.1 w
+0.00 0.00 0.00 rg
+261.36 623.02 0.7 33.6 re
+f
+Q
+
+endstream
+endobj
+96 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+97 0 obj
+<</Length 63>>
+stream
+q
+/G96 gs
+.1 w
+0.00 0.00 0.00 rg
+552.46 623.02 0.7 33.6 re
+f
+Q
+
+endstream
+endobj
+98 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+99 0 obj
+<</Length 63>>
+stream
+q
+/G98 gs
+.1 w
+0.00 0.00 0.00 rg
+383.26 589.68 0.7 33.3 re
+f
+Q
+
+endstream
+endobj
+100 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+101 0 obj
+<</Length 64>>
+stream
+q
+/G100 gs
+.1 w
+0.00 0.00 0.00 rg
+437.26 589.68 0.7 33.3 re
+f
+Q
+
+endstream
+endobj
+102 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+103 0 obj
+<</Length 64>>
+stream
+q
+/G102 gs
+.1 w
+0.00 0.00 0.00 rg
+139.68 589.68 0.7 33.3 re
+f
+Q
+
+endstream
+endobj
+104 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+105 0 obj
+<</Length 64>>
+stream
+q
+/G104 gs
+.1 w
+0.00 0.00 0.00 rg
+504.94 589.68 0.7 33.3 re
+f
+Q
+
+endstream
+endobj
+106 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+107 0 obj
+<</Length 64>>
+stream
+q
+/G106 gs
+.1 w
+0.00 0.00 0.00 rg
+396.72 42.70 0.7 122.9 re
+f
+Q
+
+endstream
+endobj
+108 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+109 0 obj
+<</Length 64>>
+stream
+q
+/G108 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 165.10 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+110 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+111 0 obj
+<</Length 63>>
+stream
+q
+/G110 gs
+.1 w
+0.00 0.00 0.00 rg
+85.46 589.90 0.7 66.7 re
+f
+Q
+
+endstream
+endobj
+112 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+113 0 obj
+<</Length 63>>
+stream
+q
+/G112 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 64.80 575.3 0.7 re
+f
+Q
+
+endstream
+endobj
+114 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+115 0 obj
+<</Length 64>>
+stream
+q
+/G114 gs
+.1 w
+0.00 0.00 0.00 rg
+396.94 75.82 196.6 0.7 re
+f
+Q
+
+endstream
+endobj
+116 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+117 0 obj
+<</Length 64>>
+stream
+q
+/G116 gs
+.1 w
+0.00 0.00 0.00 rg
+491.54 42.70 0.7 122.9 re
+f
+Q
+
+endstream
+endobj
+118 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+119 0 obj
+<</Length 65>>
+stream
+q
+/G118 gs
+.1 w
+0.00 0.00 0.00 rg
+397.44 142.78 196.1 0.7 re
+f
+Q
+
+endstream
+endobj
+120 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+121 0 obj
+<</Length 65>>
+stream
+q
+/G120 gs
+.1 w
+0.00 0.00 0.00 rg
+397.44 131.76 196.1 0.7 re
+f
+Q
+
+endstream
+endobj
+122 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+123 0 obj
+<</Length 65>>
+stream
+q
+/G122 gs
+.1 w
+0.00 0.00 0.00 rg
+397.44 120.46 196.1 0.7 re
+f
+Q
+
+endstream
+endobj
+124 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+125 0 obj
+<</Length 65>>
+stream
+q
+/G124 gs
+.1 w
+0.00 0.00 0.00 rg
+397.22 109.44 196.3 0.7 re
+f
+Q
+
+endstream
+endobj
+126 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+127 0 obj
+<</Length 64>>
+stream
+q
+/G126 gs
+.1 w
+0.00 0.00 0.00 rg
+397.44 98.14 196.1 0.7 re
+f
+Q
+
+endstream
+endobj
+128 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+129 0 obj
+<</Length 64>>
+stream
+q
+/G128 gs
+.1 w
+0.00 0.00 0.00 rg
+397.22 87.12 196.3 0.7 re
+f
+Q
+
+endstream
+endobj
+130 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+131 0 obj
+<</Length 63>>
+stream
+q
+/G130 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 42.48 575.3 0.7 re
+f
+Q
+
+endstream
+endobj
+132 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+133 0 obj
+<</Length 65>>
+stream
+q
+/G132 gs
+.1 w
+0.00 0.00 0.00 rg
+397.44 153.86 196.1 0.7 re
+f
+Q
+
+endstream
+endobj
+134 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+135 0 obj
+<</Length 64>>
+stream
+q
+/G134 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 622.58 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+136 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+137 0 obj
+<</Length 64>>
+stream
+q
+/G136 gs
+.1 w
+0.00 0.00 0.00 rg
+119.30 556.06 0.7 33.6 re
+f
+Q
+
+endstream
+endobj
+138 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+139 0 obj
+<</Length 64>>
+stream
+q
+/G138 gs
+.1 w
+0.00 0.00 0.00 rg
+220.82 556.06 0.7 33.6 re
+f
+Q
+
+endstream
+endobj
+140 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F140
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+141 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 37.656 648.216 Tm
+(COLOR) Tj
+ET
+endstream
+endobj
+142 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 30.960 614.664 Tm
+(DEL. DATE) Tj
+ET
+endstream
+endobj
+143 0 obj
+<</Length 97>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 88.776 614.664 Tm
+(PROD. DATE) Tj
+ET
+endstream
+endobj
+144 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 146.088 614.664 Tm
+(WARR. EXP.) Tj
+ET
+endstream
+endobj
+145 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 230.184 614.664 Tm
+(PROMISED) Tj
+ET
+endstream
+endobj
+146 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 328.536 614.664 Tm
+(PO NO.) Tj
+ET
+endstream
+endobj
+147 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 399.816 614.664 Tm
+(RATE) Tj
+ET
+endstream
+endobj
+148 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 45.144 581.256 Tm
+(R.O. OPENED) Tj
+ET
+endstream
+endobj
+149 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 156.024 581.256 Tm
+(READY) Tj
+ET
+endstream
+endobj
+150 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 227.736 581.256 Tm
+(OPTIONS:) Tj
+ET
+endstream
+endobj
+151 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 89.064 648.216 Tm
+(YEAR) Tj
+ET
+endstream
+endobj
+152 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 146.664 648.216 Tm
+(MAKE/MODEL) Tj
+ET
+endstream
+endobj
+153 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 319.176 648.216 Tm
+(VIN) Tj
+ET
+endstream
+endobj
+154 0 obj
+<</Length 105>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 11.00 Tf
+1.000 0.000 -0.000 1.000 282.024 657.864 Tm
+(SERVICE ADVISOR:) Tj
+ET
+endstream
+endobj
+155 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 404.424 648.216 Tm
+(LICENSE) Tj
+ET
+endstream
+endobj
+156 0 obj
+<</Length 104>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 467.496 648.216 Tm
+(MILEAGE IN / OUT) Tj
+ET
+endstream
+endobj
+157 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 563.976 648.216 Tm
+(TAG) Tj
+ET
+endstream
+endobj
+158 0 obj
+<</Length 97>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 528.480 614.664 Tm
+(INV. DATE) Tj
+ET
+endstream
+endobj
+159 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 451.944 614.664 Tm
+(PAYMENT) Tj
+ET
+endstream
+endobj
+160 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F160
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+161 0 obj
+<</Length 97>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F160 8.00 Tf
+1.000 0.000 -0.000 1.000 402.480 54.720 Tm
+(PLEASE PAY) Tj
+ET
+endstream
+endobj
+162 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F160 8.00 Tf
+1.000 0.000 -0.000 1.000 402.480 46.584 Tm
+(THIS AMOUNT) Tj
+ET
+endstream
+endobj
+163 0 obj
+<</Length 100>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 145.656 Tm
+(LABOR AMOUNT) Tj
+ET
+endstream
+endobj
+164 0 obj
+<</Length 99>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 421.704 156.456 Tm
+(DESCRIPTION) Tj
+ET
+endstream
+endobj
+165 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 531.360 156.744 Tm
+(TOTALS) Tj
+ET
+endstream
+endobj
+166 0 obj
+<</Length 100>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 134.424 Tm
+(PARTS AMOUNT) Tj
+ET
+endstream
+endobj
+167 0 obj
+<</Length 102>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 123.336 Tm
+(GAS, OIL, LUBE) Tj
+ET
+endstream
+endobj
+168 0 obj
+<</Length 101>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 112.104 Tm
+(SUBLET AMOUNT) Tj
+ET
+endstream
+endobj
+169 0 obj
+<</Length 103>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 101.016 Tm
+(* MISC. CHARGES) Tj
+ET
+endstream
+endobj
+170 0 obj
+<</Length 100>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 89.784 Tm
+(TOTAL CHARGES) Tj
+ET
+endstream
+endobj
+171 0 obj
+<</Length 101>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 78.696 Tm
+(LESS INSURANCE) Tj
+ET
+endstream
+endobj
+172 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 67.464 Tm
+(SALES TAX) Tj
+ET
+endstream
+endobj
+173 0 obj
+<</Length 158>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 4.00 Tf
+1.000 0.000 -0.000 1.000 18.216 12.744 Tm
+(Copyright 2014 CDK Global, LLC   SERVICE INVOICE TYPE 2 - SI2C - IMAGING) Tj
+ET
+endstream
+endobj
+174 0 obj
+<</Length 160>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 34.776 78.480 Tm
+(* THIS CHARGE REPRESENTS COST AND PROFIT TO THE MOTOR VEHICLE FACILITY FOR) Tj
+ET
+endstream
+endobj
+175 0 obj
+<</Length 132>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 96.480 70.344 Tm
+(MISCELLANEOUS SHOP SUPPLIES OR WASTE DISPOSAL.) Tj
+ET
+endstream
+endobj
+176 0 obj
+<</Length 111>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 153.144 158.184 Tm
+(STATEMENT OF DISCLAIMER) Tj
+ET
+endstream
+endobj
+177 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.944 149.760 Tm
+(The) Tj
+ET
+endstream
+endobj
+178 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 37.440 149.760 Tm
+(factory) Tj
+ET
+endstream
+endobj
+179 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 67.176 149.760 Tm
+(warranty) Tj
+ET
+endstream
+endobj
+180 0 obj
+<</Length 99>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 103.680 149.760 Tm
+(constitutes) Tj
+ET
+endstream
+endobj
+181 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 148.320 149.760 Tm
+(all) Tj
+ET
+endstream
+endobj
+182 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 160.056 149.760 Tm
+(of) Tj
+ET
+endstream
+endobj
+183 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 171.144 149.760 Tm
+(the) Tj
+ET
+endstream
+endobj
+184 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 186.480 149.760 Tm
+(warranties) Tj
+ET
+endstream
+endobj
+185 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 229.176 149.760 Tm
+(with) Tj
+ET
+endstream
+endobj
+186 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 249.120 149.760 Tm
+(respect) Tj
+ET
+endstream
+endobj
+187 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 280.080 149.760 Tm
+(to) Tj
+ET
+endstream
+endobj
+188 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 291.096 149.760 Tm
+(the) Tj
+ET
+endstream
+endobj
+189 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 306.504 149.760 Tm
+(sale) Tj
+ET
+endstream
+endobj
+190 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 324.504 149.760 Tm
+(of) Tj
+ET
+endstream
+endobj
+191 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 335.520 149.760 Tm
+(this) Tj
+ET
+endstream
+endobj
+192 0 obj
+<</Length 99>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 352.584 149.760 Tm
+(item/items.) Tj
+ET
+endstream
+endobj
+193 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.944 142.560 Tm
+(The) Tj
+ET
+endstream
+endobj
+194 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 36.936 142.560 Tm
+(Seller) Tj
+ET
+endstream
+endobj
+195 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 60.696 142.560 Tm
+(hereby) Tj
+ET
+endstream
+endobj
+196 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 88.776 142.560 Tm
+(expressly) Tj
+ET
+endstream
+endobj
+197 0 obj
+<</Length 97>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 126.720 142.560 Tm
+(disclaims) Tj
+ET
+endstream
+endobj
+198 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 163.944 142.560 Tm
+(all) Tj
+ET
+endstream
+endobj
+199 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 175.176 142.560 Tm
+(warranties) Tj
+ET
+endstream
+endobj
+200 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 217.440 142.560 Tm
+(either) Tj
+ET
+endstream
+endobj
+201 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 241.416 142.560 Tm
+(express) Tj
+ET
+endstream
+endobj
+202 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 273.096 142.560 Tm
+(or) Tj
+ET
+endstream
+endobj
+203 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 283.680 142.560 Tm
+(implied,) Tj
+ET
+endstream
+endobj
+204 0 obj
+<</Length 97>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 315.576 142.560 Tm
+(including) Tj
+ET
+endstream
+endobj
+205 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 351.576 142.560 Tm
+(any) Tj
+ET
+endstream
+endobj
+206 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 367.920 142.560 Tm
+(implied) Tj
+ET
+endstream
+endobj
+207 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.944 135.360 Tm
+(warranty) Tj
+ET
+endstream
+endobj
+208 0 obj
+<</Length 89>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 55.656 135.360 Tm
+(of) Tj
+ET
+endstream
+endobj
+209 0 obj
+<</Length 102>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 65.736 135.360 Tm
+(merchantability) Tj
+ET
+endstream
+endobj
+210 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 125.280 135.360 Tm
+(or) Tj
+ET
+endstream
+endobj
+211 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 135.360 135.360 Tm
+(fitness) Tj
+ET
+endstream
+endobj
+212 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 162.720 135.360 Tm
+(for) Tj
+ET
+endstream
+endobj
+213 0 obj
+<</Length 89>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 175.680 135.360 Tm
+(a) Tj
+ET
+endstream
+endobj
+214 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 182.880 135.360 Tm
+(particular) Tj
+ET
+endstream
+endobj
+215 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 220.104 135.360 Tm
+(purpose.) Tj
+ET
+endstream
+endobj
+216 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 254.880 135.360 Tm
+(Seller) Tj
+ET
+endstream
+endobj
+217 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 278.136 135.360 Tm
+(neither) Tj
+ET
+endstream
+endobj
+218 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 306.504 135.360 Tm
+(assumes) Tj
+ET
+endstream
+endobj
+219 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 341.496 135.360 Tm
+(nor) Tj
+ET
+endstream
+endobj
+220 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 356.184 135.360 Tm
+(authorizes) Tj
+ET
+endstream
+endobj
+221 0 obj
+<</Length 182>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.944 128.160 Tm
+(any other person to assume for it any liability in connection with the sale of this item/items.) Tj
+ET
+endstream
+endobj
+222 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 6.00 Tf
+1.000 0.000 -0.000 1.000 30.960 58.104 Tm
+(\(SIGNED\)) Tj
+ET
+endstream
+endobj
+223 0 obj
+<</Length 105>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 6.00 Tf
+1.000 0.000 -0.000 1.000 72.000 58.104 Tm
+(CUSTOMER/AUTHORIZED) Tj
+ET
+endstream
+endobj
+224 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 6.00 Tf
+1.000 0.000 -0.000 1.000 147.600 58.104 Tm
+(SIGNATURE) Tj
+ET
+endstream
+endobj
+225 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 6.00 Tf
+1.000 0.000 -0.000 1.000 318.960 58.104 Tm
+(\(DATE\)) Tj
+ET
+endstream
+endobj
+226 0 obj
+<</Length 109>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 10.00 Tf
+1.000 0.000 -0.000 1.000 431.784 723.384 Tm
+(255 Smokey Park Hwy.) Tj
+ET
+endstream
+endobj
+227 0 obj
+<</Length 108>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 10.00 Tf
+1.000 0.000 -0.000 1.000 438.480 710.136 Tm
+(Asheville, NC 28806) Tj
+ET
+endstream
+endobj
+228 0 obj
+<</Length 105>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 10.00 Tf
+1.000 0.000 -0.000 1.000 449.064 696.960 Tm
+(\(828\) 667-5213) Tj
+ET
+endstream
+endobj
+229 0 obj
+<</Length 107>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 10.00 Tf
+1.000 0.000 -0.000 1.000 438.480 684.000 Tm
+(www.fieldsauto.com) Tj
+ET
+endstream
+endobj
+230 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.656 115.920 Tm
+(ALL) Tj
+ET
+endstream
+endobj
+231 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 37.224 115.920 Tm
+(PARTS) Tj
+ET
+endstream
+endobj
+232 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 66.456 115.920 Tm
+(ARE) Tj
+ET
+endstream
+endobj
+233 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 85.176 115.920 Tm
+(NEW) Tj
+ET
+endstream
+endobj
+234 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 106.344 115.920 Tm
+(OR) Tj
+ET
+endstream
+endobj
+235 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 120.456 115.920 Tm
+(FACTORY) Tj
+ET
+endstream
+endobj
+236 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 161.064 115.920 Tm
+(REBUILT) Tj
+ET
+endstream
+endobj
+237 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 196.056 115.920 Tm
+(UNLESS) Tj
+ET
+endstream
+endobj
+238 0 obj
+<</Length 97>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 229.896 115.920 Tm
+(SPECIFIED) Tj
+ET
+endstream
+endobj
+239 0 obj
+<</Length 97>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 271.944 115.920 Tm
+(OTHERWISE) Tj
+ET
+endstream
+endobj
+240 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 321.336 115.920 Tm
+(NOT) Tj
+ET
+endstream
+endobj
+241 0 obj
+<</Length 99>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 341.280 115.920 Tm
+(RESPONSIBLE) Tj
+ET
+endstream
+endobj
+242 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.656 108.720 Tm
+(FOR) Tj
+ET
+endstream
+endobj
+243 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 39.384 108.720 Tm
+(LOSS) Tj
+ET
+endstream
+endobj
+244 0 obj
+<</Length 89>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 64.584 108.720 Tm
+(OR) Tj
+ET
+endstream
+endobj
+245 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 79.920 108.720 Tm
+(DAMAGE) Tj
+ET
+endstream
+endobj
+246 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 119.736 108.720 Tm
+(TO) Tj
+ET
+endstream
+endobj
+247 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 135.144 108.720 Tm
+(CARS) Tj
+ET
+endstream
+endobj
+248 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 161.280 108.720 Tm
+(OR) Tj
+ET
+endstream
+endobj
+249 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 176.904 108.720 Tm
+(ARTICLES) Tj
+ET
+endstream
+endobj
+250 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 219.384 108.720 Tm
+(LEFT) Tj
+ET
+endstream
+endobj
+251 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 241.704 108.720 Tm
+(IN) Tj
+ET
+endstream
+endobj
+252 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 253.944 108.720 Tm
+(CARS) Tj
+ET
+endstream
+endobj
+253 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 280.080 108.720 Tm
+(IN) Tj
+ET
+endstream
+endobj
+254 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 292.248 108.720 Tm
+(CASE) Tj
+ET
+endstream
+endobj
+255 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 318.024 108.720 Tm
+(OF) Tj
+ET
+endstream
+endobj
+256 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 332.424 108.720 Tm
+(THEFT) Tj
+ET
+endstream
+endobj
+257 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 361.440 108.720 Tm
+(OR) Tj
+ET
+endstream
+endobj
+258 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 376.776 108.720 Tm
+(ANY) Tj
+ET
+endstream
+endobj
+259 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.656 101.520 Tm
+(OTHER) Tj
+ET
+endstream
+endobj
+260 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 48.960 101.520 Tm
+(CAUSE) Tj
+ET
+endstream
+endobj
+261 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 78.984 101.520 Tm
+(BEYOND) Tj
+ET
+endstream
+endobj
+262 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 114.480 101.520 Tm
+(OUR) Tj
+ET
+endstream
+endobj
+263 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 134.136 101.520 Tm
+(CONTROL.) Tj
+ET
+endstream
+endobj
+264 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 177.624 101.520 Tm
+(LIMITED) Tj
+ET
+endstream
+endobj
+265 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 211.680 101.520 Tm
+(SERVICE:) Tj
+ET
+endstream
+endobj
+266 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 250.344 101.520 Tm
+(CHRYSLER) Tj
+ET
+endstream
+endobj
+267 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 294.480 101.520 Tm
+(JEEP) Tj
+ET
+endstream
+endobj
+268 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 315.576 101.520 Tm
+(DODGE) Tj
+ET
+endstream
+endobj
+269 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 346.536 101.520 Tm
+(RAM) Tj
+ET
+endstream
+endobj
+270 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 367.920 101.520 Tm
+(PARTS) Tj
+ET
+endstream
+endobj
+271 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.656 94.320 Tm
+(WARRANTY) Tj
+ET
+endstream
+endobj
+272 0 obj
+<</Length 88>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 70.776 94.320 Tm
+(IS) Tj
+ET
+endstream
+endobj
+273 0 obj
+<</Length 89>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 82.584 94.320 Tm
+(FOR) Tj
+ET
+endstream
+endobj
+274 0 obj
+<</Length 89>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 102.456 94.320 Tm
+(24) Tj
+ET
+endstream
+endobj
+275 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 116.856 94.320 Tm
+(MONTHS,) Tj
+ET
+endstream
+endobj
+276 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 158.904 94.320 Tm
+(UNLIMITED) Tj
+ET
+endstream
+endobj
+277 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 205.920 94.320 Tm
+(MILES.) Tj
+ET
+endstream
+endobj
+278 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 236.376 94.320 Tm
+(MAZDA) Tj
+ET
+endstream
+endobj
+279 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 270.504 94.320 Tm
+(PARTS) Tj
+ET
+endstream
+endobj
+280 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 301.176 94.320 Tm
+(WARRANTY) Tj
+ET
+endstream
+endobj
+281 0 obj
+<</Length 89>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 352.296 94.320 Tm
+(IS) Tj
+ET
+endstream
+endobj
+282 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 364.104 94.320 Tm
+(FOR) Tj
+ET
+endstream
+endobj
+283 0 obj
+<</Length 89>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 383.976 94.320 Tm
+(12) Tj
+ET
+endstream
+endobj
+284 0 obj
+<</Length 132>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.656 87.120 Tm
+(MONTHS OR 12,000 MILES, WHICHEVER COMES FIRST.) Tj
+ET
+endstream
+endobj
+285 0 obj
+<</Length 88>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 12.00 Tf
+1.000 0.000 -0.000 1.000 18.000 774.000 Tm
+(  ) Tj
+ET
+endstream
+endobj
+286 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+287 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 259
+/Height 61
+/Name /I287
+/BitsPerComponent 1
+/Filter /FlateDecode
+/Length 602
+
+/Decode [1 0]/ImageMask true>>
+stream
+xú•ïMé‘0Öù»ãA
+bÉXÖ˜K`9b÷≈A\†1úÇMFú)7òH)ã¥ã™W˛ãªß7„E€â_>?óÀ’∆H{˚∏ö'⁄óüÓÔèE¡·ˆ∫œ∑˙¸ä§≠}¥D⁄y}~Á Ë
+Åﬂ	K.ÿ¬ãö`/Æx8#<ﬂCMxS{®MjñÓiìJxy˜˛∫ì⁄Â]\®á0∑Ñª†ª°Y2˚‚x4¶V~ÇG'Û⁄â `õNÊ©£‹5Ã€‰Áû˘Õù≈ÅZ∏è˛r◊¡a	!∞^X%3<õ	" »à;Aˆ P-êﬂ∏Dd¥YÄà∞∂Fé˛›}œì,Åg¡wæ◊üŒmXçÍÑ	Í
+KkL,I‡·Êœû–—b’¯Ä%∆òë–Å¿3S¬Ú!6>ûUŸfI∞ï qX
+Ç’‰c∞∏Ñ”é ÅŒò∏ô±&l≠ÓØ≈9j>Ï	Iè˚°)“¬◊Ñ-òlC …YÑå*=x£QA …⁄§◊N5°ÿ&ÚbJeı>ó´Ñ9ÇÄDr√w4'Bæ÷·∞T=';¡‘ÈÛÁ√¶¡‹R ÕΩÜcÿy†qà)ß9	A⁄E£[ iØ£ΩHY ßb Hö,H7Îëåı¡ùvg°Ç©∏˛N3ﬁnºFï„ëOπîÎCG±¬ËVÚE}∞§5
+Âm+ï5*W9∂∑Ñî[ã*∑´ì≥ºT'ªPiG˝øpÙê*m—öo√Ë†’˝ã_¸üR3_
+endstream
+endobj
+288 0 obj
+<</Length 76>>
+stream
+q 0.00 0.00 0.00 rg
+/G286 gs
+62.160 0 0 14.640 406.800 736.104 cm /I287 Do Q
+endstream
+endobj
+289 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+290 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 188
+/Height 72
+/Name /I290
+/BitsPerComponent 1
+/Filter /FlateDecode
+/Length 428
+
+/Decode [1 0]/ImageMask true>>
+stream
+xú≠‘ANƒ0 ¿T™áJHàcûÆ‹“æ'·ºÄWpC*?‡	A˚Å±™±ªIª≠ËÅ^öÃZéùdkÃ≈Àì—ÁÊ·~w „ÿA«v‚qãá%wõ<’ﬁØƒ/∫á2Y˜Ùg<@	⁄‡˙ﬂ◊Ù+Êø¸ú∫£m¬x≈O˘’ì{Èfóù^˝K´o9ùÉÉV—¬9Ó6¥GwÁ˛ç@]cAÏ{wÊP;Cò¯ëF sO8j8I_π%è£©cÎÅ‚Ôﬁ$OΩoÚΩïxßyríàºZox;iˇ’=y4˘f∞Tv>#Ÿ=_˘P≈7‹h‚sÅoe?’Òx˜K‹Ò¬%?œ©tÒ*^[¬≠òª^ Ò€˝cˆÅ/ $…èÖ¥£7%ﬁ’é≠%Ò1n∂ÚNù€Cor[‹Q˛$Ò‚œÍÒÃÉØÎÄ◊ö]ÍÁ2ªÏõƒœ]Û˚Ï˘ö⁄#y‘ˇë÷‚]}æ∂xÀª]˙‚ÎáãÏ‰ûh˝ÍÜÔ∑‰ørÂ3dﬁ_ÀÿW^?n≈}¸Ô uÚÿÚeﬁ‰Ÿÿa≈OÀÓ‚J|0øÑﬁ
+endstream
+endobj
+291 0 obj
+<</Length 76>>
+stream
+q 0.00 0.00 0.00 rg
+/G289 gs
+45.120 0 0 17.280 475.920 733.176 cm /I290 Do Q
+endstream
+endobj
+292 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+293 0 obj
+<<
+/Type /XObject
+/Subtype /Image
+/Width 160
+/Height 61
+/Name /I293
+/BitsPerComponent 1
+/Filter /FlateDecode
+/Length 290
+
+/Decode [1 0]/ImageMask true>>
+stream
+xúïîΩmƒ0Ö©∏pÈn◊ÈÇÏë‰Çõ K§˜
+Ÿ@#\È¬EŸ)1A"¿∞·=ãÊèàÃz¬—Î˝=oÔœÖÕ8à"ºA@"61€›çŸ—∞»çWÿbuËYñ™w)/^£õÑm€ªá›¨¬ífG~å7bÁsé®„ãúﬁöÔe”ÿxÎuÉe!'˛ÀV
+oü:f—ë≠•ËŒ£Æòáìy:Õ~”¡ÍñˇxkÃ*ñÓﬂ˛üã‰ 8˘Ûÿ‡‘Hrü÷◊∂ˆRﬂ‹ô„’‹π_[π◊J_)≥/È?≈jüˆL{◊…—’˘P¨ŒëÚ◊º)›9É∆{Œ¥e≥0KΩ¥.ø∑ÜÂÉìÒ.r!H9Õ¬—7ÚZÉ∏
+endstream
+endobj
+294 0 obj
+<</Length 76>>
+stream
+q 0.00 0.00 0.00 rg
+/G292 gs
+38.400 0 0 14.640 529.704 736.104 cm /I293 Do Q
+endstream
+endobj
+296 0 obj
+<</Length 168>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 714.240 Tm
+(                                         ACCOUNTING                               ) Tj
+ET
+endstream
+endobj
+297 0 obj
+<</Length 168>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 703.080 Tm
+(KEITH BRIDGES                                                                     ) Tj
+ET
+endstream
+endobj
+298 0 obj
+<</Length 168>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 691.920 Tm
+(110 HARBIN DRIVE                                                                  ) Tj
+ET
+endstream
+endobj
+299 0 obj
+<</Length 168>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 680.760 Tm
+(SWANNONOA, NC 28778                        PAGE 2                                 ) Tj
+ET
+endstream
+endobj
+300 0 obj
+<</Length 142>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 669.600 Tm
+(HOME:980-253-2473 CONT:980-253-2473                     ) Tj
+ET
+endstream
+endobj
+301 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 658.440 Tm
+(BUS:              CELL:                                8850 JAX PUTNAM          ) Tj
+ET
+endstream
+endobj
+302 0 obj
+<</Length 171>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 624.960 Tm
+(           20  JEEP WRANGLER UNLIMI  1C4HJXEN7LW180561           35811/35811  T3055  ) Tj
+ET
+endstream
+endobj
+303 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 602.640 Tm
+(12SEP22 IS) Tj
+ET
+endstream
+endobj
+304 0 obj
+<</Length 165>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 591.480 Tm
+(12SEP22 DD                   WAIT 04OCT22                0.00  CASH     07OCT22) Tj
+ET
+endstream
+endobj
+305 0 obj
+<</Length 145>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 580.320 Tm
+(                                       ENG:2.0_Liter_Turbo ) Tj
+ET
+endstream
+endobj
+306 0 obj
+<</Length 116>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 558.000 Tm
+(08:00 04OCT22  10:49 07OCT22  ) Tj
+ET
+endstream
+endobj
+307 0 obj
+<</Length 170>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 546.840 Tm
+(LINE OPCODE TECH TYPE A/HRS S/HRS                      LIST         NET        TOTAL) Tj
+ET
+endstream
+endobj
+308 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 535.680 Tm
+(PARTS:    987.73  LABOR:    591.67  OTHER:      0.00   TOTAL LINE A:     1579.40) Tj
+ET
+endstream
+endobj
+309 0 obj
+<</Length 154>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 524.520 Tm
+( 35811                                                              ) Tj
+ET
+endstream
+endobj
+310 0 obj
+<</Length 154>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 513.360 Tm
+( test drove. duplicated. found rear differential pinion bearings    ) Tj
+ET
+endstream
+endobj
+311 0 obj
+<</Length 158>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 502.200 Tm
+( roaring. removed and replaced rear pinion bearings, carrier bearings,  ) Tj
+ET
+endstream
+endobj
+312 0 obj
+<</Length 158>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 491.040 Tm
+( and axle bearings and all applicable seals/ gaskets.                   ) Tj
+ET
+endstream
+endobj
+313 0 obj
+<</Length 154>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 479.880 Tm
+( test drove after repair. all okay after repairs                    ) Tj
+ET
+endstream
+endobj
+314 0 obj
+<</Length 159>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 468.720 Tm
+(B Multi-point inspection \(according to maintenance interval\)           ) Tj
+ET
+endstream
+endobj
+315 0 obj
+<</Length 141>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 457.560 Tm
+(     9090 Multi-point inspection \(according to        ) Tj
+ET
+endstream
+endobj
+316 0 obj
+<</Length 141>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 446.400 Tm
+(          maintenance interval\)                       ) Tj
+ET
+endstream
+endobj
+317 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 435.240 Tm
+(            8327  CJM  0.00  0.00      0       0                   0.00     0.00) Tj
+ET
+endstream
+endobj
+318 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 424.080 Tm
+(PARTS:      0.00  LABOR:      0.00  OTHER:      0.00   TOTAL LINE B:        0.00) Tj
+ET
+endstream
+endobj
+319 0 obj
+<</Length 165>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 412.920 Tm
+(  GAVE TO CHAD 10-5                                                            ) Tj
+ET
+endstream
+endobj
+320 0 obj
+<</Length 150>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 390.600 Tm
+(    DATE   START  FINISH  DURATION  TYPE  TECH    LINE\(S\)  CHG) Tj
+ET
+endstream
+endobj
+321 0 obj
+<</Length 147>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 379.440 Tm
+(10-04-22   09:51   10:47      0.93     W    8327        A    ) Tj
+ET
+endstream
+endobj
+322 0 obj
+<</Length 147>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 368.280 Tm
+(10-06-22   10:14   14:34      4.34     W    8327        A    ) Tj
+ET
+endstream
+endobj
+323 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 345.960 Tm
+(ACCOUNT   SALE     COST       CONTROL    ACCOUNT   SALE     COST       CONTROL  ) Tj
+ET
+endstream
+endobj
+324 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 334.800 Tm
+(55200      59167    17250                57200      98773    58756              ) Tj
+ET
+endstream
+endobj
+325 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 323.640 Tm
+(55000          0        0                11600     157940  *******              ) Tj
+ET
+endstream
+endobj
+326 0 obj
+<</Length 127>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 312.480 Tm
+(11700          0  *******                ) Tj
+ET
+endstream
+endobj
+327 0 obj
+<</Length 140>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 167.400 Tm
+(      COST, SALE, & COMP TOTALS    76006  157940     0) Tj
+ET
+endstream
+endobj
+328 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 145.080 Tm
+(                                                                            0.00) Tj
+ET
+endstream
+endobj
+329 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 133.920 Tm
+(                                                                            0.00) Tj
+ET
+endstream
+endobj
+330 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 122.760 Tm
+(                                                                            0.00) Tj
+ET
+endstream
+endobj
+331 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 111.600 Tm
+(                                                                            0.00) Tj
+ET
+endstream
+endobj
+332 0 obj
+<</Length 166>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 100.440 Tm
+(                                                                            0.00) Tj
+ET
+endstream
+endobj
+333 0 obj
+<</Length 165>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 89.280 Tm
+(                                                                            0.00) Tj
+ET
+endstream
+endobj
+334 0 obj
+<</Length 165>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 78.120 Tm
+(                                                                            0.00) Tj
+ET
+endstream
+endobj
+335 0 obj
+<</Length 165>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 66.960 Tm
+(                                                                            0.00) Tj
+ET
+endstream
+endobj
+336 0 obj
+<</Length 165>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.43 Tf
+1.000 0.000 -0.000 1.000 18.000 44.640 Tm
+(                                                                            0.00) Tj
+ET
+endstream
+endobj
+337 0 obj
+<</Length 121>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F54 14.00 Tf
+1.000 0.000 -0.000 1.000 289.584 738.000 Tm
+(  61510                          ) Tj
+ET
+endstream
+endobj
+338 0 obj
+<</Length 126>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.30 Tf
+1.000 0.000 -0.000 1.000 18.000 738.000 Tm
+(CUSTOMER #: 101076                      ) Tj
+ET
+endstream
+endobj
+339 0 obj
+<</Length 171>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 11.30 Tf
+1.000 0.000 -0.000 1.000 18.000 751.824 Tm
+(                                                                                     ) Tj
+ET
+endstream
+endobj
+340 0 obj
+<</Length 102>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F54 12.00 Tf
+1.000 0.000 -0.000 1.000 252.000 12.240 Tm
+(ACCOUNTING COPY) Tj
+ET
+endstream
+endobj
+341 0 obj
+<</Length 104>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 12.00 Tf
+1.000 0.000 -0.000 1.000 18.000 747.000 Tm
+(                  ) Tj
+ET
+endstream
+endobj
+342 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 0.03
+/BM /Multiply
+>>
+endobj
+343 0 obj
+<</Length 65>>
+stream
+q
+/G342 gs
+.1 w
+0.00 0.00 0.00 rg
+18.50 645.55 574.6 10.6 re
+f
+Q
+
+endstream
+endobj
+344 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 0.03
+/BM /Multiply
+>>
+endobj
+345 0 obj
+<</Length 65>>
+stream
+q
+/G344 gs
+.1 w
+0.00 0.00 0.00 rg
+18.50 612.22 574.6 10.6 re
+f
+Q
+
+endstream
+endobj
+346 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 0.03
+/BM /Multiply
+>>
+endobj
+347 0 obj
+<</Length 65>>
+stream
+q
+/G346 gs
+.1 w
+0.00 0.00 0.00 rg
+18.50 578.59 202.3 10.6 re
+f
+Q
+
+endstream
+endobj
+348 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 0.03
+/BM /Multiply
+>>
+endobj
+349 0 obj
+<</Length 66>>
+stream
+q
+/G348 gs
+.1 w
+0.00 0.00 0.00 rg
+397.44 154.51 195.6 10.6 re
+f
+Q
+
+endstream
+endobj
+350 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 0.03
+/BM /Multiply
+>>
+endobj
+351 0 obj
+<</Length 65>>
+stream
+q
+/G350 gs
+.1 w
+0.00 0.00 0.00 rg
+492.26 42.98 100.8 21.8 re
+f
+Q
+
+endstream
+endobj
+352 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+353 0 obj
+<</Length 64>>
+stream
+q
+/G352 gs
+.1 w
+0.00 0.00 0.00 rg
+112.54 623.02 0.7 33.6 re
+f
+Q
+
+endstream
+endobj
+354 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+355 0 obj
+<</Length 64>>
+stream
+q
+/G354 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 656.14 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+356 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+357 0 obj
+<</Length 64>>
+stream
+q
+/G356 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 555.84 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+358 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+359 0 obj
+<</Length 64>>
+stream
+q
+/G358 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 578.16 203.0 0.7 re
+f
+Q
+
+endstream
+endobj
+360 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+361 0 obj
+<</Length 64>>
+stream
+q
+/G360 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 544.54 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+362 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+363 0 obj
+<</Length 64>>
+stream
+q
+/G362 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 644.90 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+364 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+365 0 obj
+<</Length 64>>
+stream
+q
+/G364 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 611.50 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+366 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+367 0 obj
+<</Length 64>>
+stream
+q
+/G366 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 589.18 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+368 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+369 0 obj
+<</Length 64>>
+stream
+q
+/G368 gs
+.1 w
+0.00 0.00 0.00 rg
+390.02 623.02 0.7 33.6 re
+f
+Q
+
+endstream
+endobj
+370 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+371 0 obj
+<</Length 64>>
+stream
+q
+/G370 gs
+.1 w
+0.00 0.00 0.00 rg
+450.94 623.02 0.7 33.6 re
+f
+Q
+
+endstream
+endobj
+372 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+373 0 obj
+<</Length 64>>
+stream
+q
+/G372 gs
+.1 w
+0.00 0.00 0.00 rg
+200.38 589.68 0.7 33.3 re
+f
+Q
+
+endstream
+endobj
+374 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+375 0 obj
+<</Length 64>>
+stream
+q
+/G374 gs
+.1 w
+0.00 0.00 0.00 rg
+301.90 589.68 0.7 33.3 re
+f
+Q
+
+endstream
+endobj
+376 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+377 0 obj
+<</Length 64>>
+stream
+q
+/G376 gs
+.1 w
+0.00 0.00 0.00 rg
+261.36 623.02 0.7 33.6 re
+f
+Q
+
+endstream
+endobj
+378 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+379 0 obj
+<</Length 64>>
+stream
+q
+/G378 gs
+.1 w
+0.00 0.00 0.00 rg
+552.46 623.02 0.7 33.6 re
+f
+Q
+
+endstream
+endobj
+380 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+381 0 obj
+<</Length 64>>
+stream
+q
+/G380 gs
+.1 w
+0.00 0.00 0.00 rg
+383.26 589.68 0.7 33.3 re
+f
+Q
+
+endstream
+endobj
+382 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+383 0 obj
+<</Length 64>>
+stream
+q
+/G382 gs
+.1 w
+0.00 0.00 0.00 rg
+437.26 589.68 0.7 33.3 re
+f
+Q
+
+endstream
+endobj
+384 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+385 0 obj
+<</Length 64>>
+stream
+q
+/G384 gs
+.1 w
+0.00 0.00 0.00 rg
+139.68 589.68 0.7 33.3 re
+f
+Q
+
+endstream
+endobj
+386 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+387 0 obj
+<</Length 64>>
+stream
+q
+/G386 gs
+.1 w
+0.00 0.00 0.00 rg
+504.94 589.68 0.7 33.3 re
+f
+Q
+
+endstream
+endobj
+388 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+389 0 obj
+<</Length 64>>
+stream
+q
+/G388 gs
+.1 w
+0.00 0.00 0.00 rg
+396.72 42.70 0.7 122.9 re
+f
+Q
+
+endstream
+endobj
+390 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+391 0 obj
+<</Length 64>>
+stream
+q
+/G390 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 165.10 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+392 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+393 0 obj
+<</Length 63>>
+stream
+q
+/G392 gs
+.1 w
+0.00 0.00 0.00 rg
+85.46 589.90 0.7 66.7 re
+f
+Q
+
+endstream
+endobj
+394 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+395 0 obj
+<</Length 63>>
+stream
+q
+/G394 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 64.80 575.3 0.7 re
+f
+Q
+
+endstream
+endobj
+396 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+397 0 obj
+<</Length 64>>
+stream
+q
+/G396 gs
+.1 w
+0.00 0.00 0.00 rg
+396.94 75.82 196.6 0.7 re
+f
+Q
+
+endstream
+endobj
+398 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+399 0 obj
+<</Length 64>>
+stream
+q
+/G398 gs
+.1 w
+0.00 0.00 0.00 rg
+491.54 42.70 0.7 122.9 re
+f
+Q
+
+endstream
+endobj
+400 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+401 0 obj
+<</Length 65>>
+stream
+q
+/G400 gs
+.1 w
+0.00 0.00 0.00 rg
+397.44 142.78 196.1 0.7 re
+f
+Q
+
+endstream
+endobj
+402 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+403 0 obj
+<</Length 65>>
+stream
+q
+/G402 gs
+.1 w
+0.00 0.00 0.00 rg
+397.44 131.76 196.1 0.7 re
+f
+Q
+
+endstream
+endobj
+404 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+405 0 obj
+<</Length 65>>
+stream
+q
+/G404 gs
+.1 w
+0.00 0.00 0.00 rg
+397.44 120.46 196.1 0.7 re
+f
+Q
+
+endstream
+endobj
+406 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+407 0 obj
+<</Length 65>>
+stream
+q
+/G406 gs
+.1 w
+0.00 0.00 0.00 rg
+397.22 109.44 196.3 0.7 re
+f
+Q
+
+endstream
+endobj
+408 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+409 0 obj
+<</Length 64>>
+stream
+q
+/G408 gs
+.1 w
+0.00 0.00 0.00 rg
+397.44 98.14 196.1 0.7 re
+f
+Q
+
+endstream
+endobj
+410 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+411 0 obj
+<</Length 64>>
+stream
+q
+/G410 gs
+.1 w
+0.00 0.00 0.00 rg
+397.22 87.12 196.3 0.7 re
+f
+Q
+
+endstream
+endobj
+412 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+413 0 obj
+<</Length 63>>
+stream
+q
+/G412 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 42.48 575.3 0.7 re
+f
+Q
+
+endstream
+endobj
+414 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+415 0 obj
+<</Length 65>>
+stream
+q
+/G414 gs
+.1 w
+0.00 0.00 0.00 rg
+397.44 153.86 196.1 0.7 re
+f
+Q
+
+endstream
+endobj
+416 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+417 0 obj
+<</Length 64>>
+stream
+q
+/G416 gs
+.1 w
+0.00 0.00 0.00 rg
+18.00 622.58 575.5 0.7 re
+f
+Q
+
+endstream
+endobj
+418 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+419 0 obj
+<</Length 64>>
+stream
+q
+/G418 gs
+.1 w
+0.00 0.00 0.00 rg
+119.30 556.06 0.7 33.6 re
+f
+Q
+
+endstream
+endobj
+420 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+421 0 obj
+<</Length 64>>
+stream
+q
+/G420 gs
+.1 w
+0.00 0.00 0.00 rg
+220.82 556.06 0.7 33.6 re
+f
+Q
+
+endstream
+endobj
+422 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 37.656 648.216 Tm
+(COLOR) Tj
+ET
+endstream
+endobj
+423 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 30.960 614.664 Tm
+(DEL. DATE) Tj
+ET
+endstream
+endobj
+424 0 obj
+<</Length 97>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 88.776 614.664 Tm
+(PROD. DATE) Tj
+ET
+endstream
+endobj
+425 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 146.088 614.664 Tm
+(WARR. EXP.) Tj
+ET
+endstream
+endobj
+426 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 230.184 614.664 Tm
+(PROMISED) Tj
+ET
+endstream
+endobj
+427 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 328.536 614.664 Tm
+(PO NO.) Tj
+ET
+endstream
+endobj
+428 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 399.816 614.664 Tm
+(RATE) Tj
+ET
+endstream
+endobj
+429 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 45.144 581.256 Tm
+(R.O. OPENED) Tj
+ET
+endstream
+endobj
+430 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 156.024 581.256 Tm
+(READY) Tj
+ET
+endstream
+endobj
+431 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 227.736 581.256 Tm
+(OPTIONS:) Tj
+ET
+endstream
+endobj
+432 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 89.064 648.216 Tm
+(YEAR) Tj
+ET
+endstream
+endobj
+433 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 146.664 648.216 Tm
+(MAKE/MODEL) Tj
+ET
+endstream
+endobj
+434 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 319.176 648.216 Tm
+(VIN) Tj
+ET
+endstream
+endobj
+435 0 obj
+<</Length 105>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 11.00 Tf
+1.000 0.000 -0.000 1.000 282.024 657.864 Tm
+(SERVICE ADVISOR:) Tj
+ET
+endstream
+endobj
+436 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 404.424 648.216 Tm
+(LICENSE) Tj
+ET
+endstream
+endobj
+437 0 obj
+<</Length 104>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 467.496 648.216 Tm
+(MILEAGE IN / OUT) Tj
+ET
+endstream
+endobj
+438 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 563.976 648.216 Tm
+(TAG) Tj
+ET
+endstream
+endobj
+439 0 obj
+<</Length 97>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 528.480 614.664 Tm
+(INV. DATE) Tj
+ET
+endstream
+endobj
+440 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 451.944 614.664 Tm
+(PAYMENT) Tj
+ET
+endstream
+endobj
+441 0 obj
+<</Length 97>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F160 8.00 Tf
+1.000 0.000 -0.000 1.000 402.480 54.720 Tm
+(PLEASE PAY) Tj
+ET
+endstream
+endobj
+442 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F160 8.00 Tf
+1.000 0.000 -0.000 1.000 402.480 46.584 Tm
+(THIS AMOUNT) Tj
+ET
+endstream
+endobj
+443 0 obj
+<</Length 100>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 145.656 Tm
+(LABOR AMOUNT) Tj
+ET
+endstream
+endobj
+444 0 obj
+<</Length 99>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 421.704 156.456 Tm
+(DESCRIPTION) Tj
+ET
+endstream
+endobj
+445 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 531.360 156.744 Tm
+(TOTALS) Tj
+ET
+endstream
+endobj
+446 0 obj
+<</Length 100>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 134.424 Tm
+(PARTS AMOUNT) Tj
+ET
+endstream
+endobj
+447 0 obj
+<</Length 102>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 123.336 Tm
+(GAS, OIL, LUBE) Tj
+ET
+endstream
+endobj
+448 0 obj
+<</Length 101>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 112.104 Tm
+(SUBLET AMOUNT) Tj
+ET
+endstream
+endobj
+449 0 obj
+<</Length 103>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 101.016 Tm
+(* MISC. CHARGES) Tj
+ET
+endstream
+endobj
+450 0 obj
+<</Length 100>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 89.784 Tm
+(TOTAL CHARGES) Tj
+ET
+endstream
+endobj
+451 0 obj
+<</Length 101>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 78.696 Tm
+(LESS INSURANCE) Tj
+ET
+endstream
+endobj
+452 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 7.00 Tf
+1.000 0.000 -0.000 1.000 402.480 67.464 Tm
+(SALES TAX) Tj
+ET
+endstream
+endobj
+453 0 obj
+<</Length 158>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 4.00 Tf
+1.000 0.000 -0.000 1.000 18.216 12.744 Tm
+(Copyright 2014 CDK Global, LLC   SERVICE INVOICE TYPE 2 - SI2C - IMAGING) Tj
+ET
+endstream
+endobj
+454 0 obj
+<</Length 160>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 34.776 78.480 Tm
+(* THIS CHARGE REPRESENTS COST AND PROFIT TO THE MOTOR VEHICLE FACILITY FOR) Tj
+ET
+endstream
+endobj
+455 0 obj
+<</Length 132>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 96.480 70.344 Tm
+(MISCELLANEOUS SHOP SUPPLIES OR WASTE DISPOSAL.) Tj
+ET
+endstream
+endobj
+456 0 obj
+<</Length 111>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 153.144 158.184 Tm
+(STATEMENT OF DISCLAIMER) Tj
+ET
+endstream
+endobj
+457 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.944 149.760 Tm
+(The) Tj
+ET
+endstream
+endobj
+458 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 37.440 149.760 Tm
+(factory) Tj
+ET
+endstream
+endobj
+459 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 67.176 149.760 Tm
+(warranty) Tj
+ET
+endstream
+endobj
+460 0 obj
+<</Length 99>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 103.680 149.760 Tm
+(constitutes) Tj
+ET
+endstream
+endobj
+461 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 148.320 149.760 Tm
+(all) Tj
+ET
+endstream
+endobj
+462 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 160.056 149.760 Tm
+(of) Tj
+ET
+endstream
+endobj
+463 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 171.144 149.760 Tm
+(the) Tj
+ET
+endstream
+endobj
+464 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 186.480 149.760 Tm
+(warranties) Tj
+ET
+endstream
+endobj
+465 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 229.176 149.760 Tm
+(with) Tj
+ET
+endstream
+endobj
+466 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 249.120 149.760 Tm
+(respect) Tj
+ET
+endstream
+endobj
+467 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 280.080 149.760 Tm
+(to) Tj
+ET
+endstream
+endobj
+468 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 291.096 149.760 Tm
+(the) Tj
+ET
+endstream
+endobj
+469 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 306.504 149.760 Tm
+(sale) Tj
+ET
+endstream
+endobj
+470 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 324.504 149.760 Tm
+(of) Tj
+ET
+endstream
+endobj
+471 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 335.520 149.760 Tm
+(this) Tj
+ET
+endstream
+endobj
+472 0 obj
+<</Length 99>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 352.584 149.760 Tm
+(item/items.) Tj
+ET
+endstream
+endobj
+473 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.944 142.560 Tm
+(The) Tj
+ET
+endstream
+endobj
+474 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 36.936 142.560 Tm
+(Seller) Tj
+ET
+endstream
+endobj
+475 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 60.696 142.560 Tm
+(hereby) Tj
+ET
+endstream
+endobj
+476 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 88.776 142.560 Tm
+(expressly) Tj
+ET
+endstream
+endobj
+477 0 obj
+<</Length 97>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 126.720 142.560 Tm
+(disclaims) Tj
+ET
+endstream
+endobj
+478 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 163.944 142.560 Tm
+(all) Tj
+ET
+endstream
+endobj
+479 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 175.176 142.560 Tm
+(warranties) Tj
+ET
+endstream
+endobj
+480 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 217.440 142.560 Tm
+(either) Tj
+ET
+endstream
+endobj
+481 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 241.416 142.560 Tm
+(express) Tj
+ET
+endstream
+endobj
+482 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 273.096 142.560 Tm
+(or) Tj
+ET
+endstream
+endobj
+483 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 283.680 142.560 Tm
+(implied,) Tj
+ET
+endstream
+endobj
+484 0 obj
+<</Length 97>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 315.576 142.560 Tm
+(including) Tj
+ET
+endstream
+endobj
+485 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 351.576 142.560 Tm
+(any) Tj
+ET
+endstream
+endobj
+486 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 367.920 142.560 Tm
+(implied) Tj
+ET
+endstream
+endobj
+487 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.944 135.360 Tm
+(warranty) Tj
+ET
+endstream
+endobj
+488 0 obj
+<</Length 89>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 55.656 135.360 Tm
+(of) Tj
+ET
+endstream
+endobj
+489 0 obj
+<</Length 102>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 65.736 135.360 Tm
+(merchantability) Tj
+ET
+endstream
+endobj
+490 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 125.280 135.360 Tm
+(or) Tj
+ET
+endstream
+endobj
+491 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 135.360 135.360 Tm
+(fitness) Tj
+ET
+endstream
+endobj
+492 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 162.720 135.360 Tm
+(for) Tj
+ET
+endstream
+endobj
+493 0 obj
+<</Length 89>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 175.680 135.360 Tm
+(a) Tj
+ET
+endstream
+endobj
+494 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 182.880 135.360 Tm
+(particular) Tj
+ET
+endstream
+endobj
+495 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 220.104 135.360 Tm
+(purpose.) Tj
+ET
+endstream
+endobj
+496 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 254.880 135.360 Tm
+(Seller) Tj
+ET
+endstream
+endobj
+497 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 278.136 135.360 Tm
+(neither) Tj
+ET
+endstream
+endobj
+498 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 306.504 135.360 Tm
+(assumes) Tj
+ET
+endstream
+endobj
+499 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 341.496 135.360 Tm
+(nor) Tj
+ET
+endstream
+endobj
+500 0 obj
+<</Length 98>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 356.184 135.360 Tm
+(authorizes) Tj
+ET
+endstream
+endobj
+501 0 obj
+<</Length 182>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.944 128.160 Tm
+(any other person to assume for it any liability in connection with the sale of this item/items.) Tj
+ET
+endstream
+endobj
+502 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 6.00 Tf
+1.000 0.000 -0.000 1.000 30.960 58.104 Tm
+(\(SIGNED\)) Tj
+ET
+endstream
+endobj
+503 0 obj
+<</Length 105>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 6.00 Tf
+1.000 0.000 -0.000 1.000 72.000 58.104 Tm
+(CUSTOMER/AUTHORIZED) Tj
+ET
+endstream
+endobj
+504 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 6.00 Tf
+1.000 0.000 -0.000 1.000 147.600 58.104 Tm
+(SIGNATURE) Tj
+ET
+endstream
+endobj
+505 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 6.00 Tf
+1.000 0.000 -0.000 1.000 318.960 58.104 Tm
+(\(DATE\)) Tj
+ET
+endstream
+endobj
+506 0 obj
+<</Length 109>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 10.00 Tf
+1.000 0.000 -0.000 1.000 431.784 723.384 Tm
+(255 Smokey Park Hwy.) Tj
+ET
+endstream
+endobj
+507 0 obj
+<</Length 108>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 10.00 Tf
+1.000 0.000 -0.000 1.000 438.480 710.136 Tm
+(Asheville, NC 28806) Tj
+ET
+endstream
+endobj
+508 0 obj
+<</Length 105>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 10.00 Tf
+1.000 0.000 -0.000 1.000 449.064 696.960 Tm
+(\(828\) 667-5213) Tj
+ET
+endstream
+endobj
+509 0 obj
+<</Length 107>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 10.00 Tf
+1.000 0.000 -0.000 1.000 438.480 684.000 Tm
+(www.fieldsauto.com) Tj
+ET
+endstream
+endobj
+510 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.656 115.920 Tm
+(ALL) Tj
+ET
+endstream
+endobj
+511 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 37.224 115.920 Tm
+(PARTS) Tj
+ET
+endstream
+endobj
+512 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 66.456 115.920 Tm
+(ARE) Tj
+ET
+endstream
+endobj
+513 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 85.176 115.920 Tm
+(NEW) Tj
+ET
+endstream
+endobj
+514 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 106.344 115.920 Tm
+(OR) Tj
+ET
+endstream
+endobj
+515 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 120.456 115.920 Tm
+(FACTORY) Tj
+ET
+endstream
+endobj
+516 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 161.064 115.920 Tm
+(REBUILT) Tj
+ET
+endstream
+endobj
+517 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 196.056 115.920 Tm
+(UNLESS) Tj
+ET
+endstream
+endobj
+518 0 obj
+<</Length 97>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 229.896 115.920 Tm
+(SPECIFIED) Tj
+ET
+endstream
+endobj
+519 0 obj
+<</Length 97>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 271.944 115.920 Tm
+(OTHERWISE) Tj
+ET
+endstream
+endobj
+520 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 321.336 115.920 Tm
+(NOT) Tj
+ET
+endstream
+endobj
+521 0 obj
+<</Length 99>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 341.280 115.920 Tm
+(RESPONSIBLE) Tj
+ET
+endstream
+endobj
+522 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.656 108.720 Tm
+(FOR) Tj
+ET
+endstream
+endobj
+523 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 39.384 108.720 Tm
+(LOSS) Tj
+ET
+endstream
+endobj
+524 0 obj
+<</Length 89>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 64.584 108.720 Tm
+(OR) Tj
+ET
+endstream
+endobj
+525 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 79.920 108.720 Tm
+(DAMAGE) Tj
+ET
+endstream
+endobj
+526 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 119.736 108.720 Tm
+(TO) Tj
+ET
+endstream
+endobj
+527 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 135.144 108.720 Tm
+(CARS) Tj
+ET
+endstream
+endobj
+528 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 161.280 108.720 Tm
+(OR) Tj
+ET
+endstream
+endobj
+529 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 176.904 108.720 Tm
+(ARTICLES) Tj
+ET
+endstream
+endobj
+530 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 219.384 108.720 Tm
+(LEFT) Tj
+ET
+endstream
+endobj
+531 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 241.704 108.720 Tm
+(IN) Tj
+ET
+endstream
+endobj
+532 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 253.944 108.720 Tm
+(CARS) Tj
+ET
+endstream
+endobj
+533 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 280.080 108.720 Tm
+(IN) Tj
+ET
+endstream
+endobj
+534 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 292.248 108.720 Tm
+(CASE) Tj
+ET
+endstream
+endobj
+535 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 318.024 108.720 Tm
+(OF) Tj
+ET
+endstream
+endobj
+536 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 332.424 108.720 Tm
+(THEFT) Tj
+ET
+endstream
+endobj
+537 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 361.440 108.720 Tm
+(OR) Tj
+ET
+endstream
+endobj
+538 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 376.776 108.720 Tm
+(ANY) Tj
+ET
+endstream
+endobj
+539 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.656 101.520 Tm
+(OTHER) Tj
+ET
+endstream
+endobj
+540 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 48.960 101.520 Tm
+(CAUSE) Tj
+ET
+endstream
+endobj
+541 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 78.984 101.520 Tm
+(BEYOND) Tj
+ET
+endstream
+endobj
+542 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 114.480 101.520 Tm
+(OUR) Tj
+ET
+endstream
+endobj
+543 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 134.136 101.520 Tm
+(CONTROL.) Tj
+ET
+endstream
+endobj
+544 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 177.624 101.520 Tm
+(LIMITED) Tj
+ET
+endstream
+endobj
+545 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 211.680 101.520 Tm
+(SERVICE:) Tj
+ET
+endstream
+endobj
+546 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 250.344 101.520 Tm
+(CHRYSLER) Tj
+ET
+endstream
+endobj
+547 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 294.480 101.520 Tm
+(JEEP) Tj
+ET
+endstream
+endobj
+548 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 315.576 101.520 Tm
+(DODGE) Tj
+ET
+endstream
+endobj
+549 0 obj
+<</Length 91>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 346.536 101.520 Tm
+(RAM) Tj
+ET
+endstream
+endobj
+550 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 367.920 101.520 Tm
+(PARTS) Tj
+ET
+endstream
+endobj
+551 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.656 94.320 Tm
+(WARRANTY) Tj
+ET
+endstream
+endobj
+552 0 obj
+<</Length 88>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 70.776 94.320 Tm
+(IS) Tj
+ET
+endstream
+endobj
+553 0 obj
+<</Length 89>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 82.584 94.320 Tm
+(FOR) Tj
+ET
+endstream
+endobj
+554 0 obj
+<</Length 89>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 102.456 94.320 Tm
+(24) Tj
+ET
+endstream
+endobj
+555 0 obj
+<</Length 94>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 116.856 94.320 Tm
+(MONTHS,) Tj
+ET
+endstream
+endobj
+556 0 obj
+<</Length 96>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 158.904 94.320 Tm
+(UNLIMITED) Tj
+ET
+endstream
+endobj
+557 0 obj
+<</Length 93>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 205.920 94.320 Tm
+(MILES.) Tj
+ET
+endstream
+endobj
+558 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 236.376 94.320 Tm
+(MAZDA) Tj
+ET
+endstream
+endobj
+559 0 obj
+<</Length 92>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 270.504 94.320 Tm
+(PARTS) Tj
+ET
+endstream
+endobj
+560 0 obj
+<</Length 95>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 301.176 94.320 Tm
+(WARRANTY) Tj
+ET
+endstream
+endobj
+561 0 obj
+<</Length 89>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 352.296 94.320 Tm
+(IS) Tj
+ET
+endstream
+endobj
+562 0 obj
+<</Length 90>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 364.104 94.320 Tm
+(FOR) Tj
+ET
+endstream
+endobj
+563 0 obj
+<</Length 89>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 383.976 94.320 Tm
+(12) Tj
+ET
+endstream
+endobj
+564 0 obj
+<</Length 132>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F140 8.00 Tf
+1.000 0.000 -0.000 1.000 19.656 87.120 Tm
+(MONTHS OR 12,000 MILES, WHICHEVER COMES FIRST.) Tj
+ET
+endstream
+endobj
+565 0 obj
+<</Length 88>>
+stream
+0.00 0.00 0.00 rg
+BT
+/F7 12.00 Tf
+1.000 0.000 -0.000 1.000 18.000 774.000 Tm
+(  ) Tj
+ET
+endstream
+endobj
+566 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+567 0 obj
+<</Length 76>>
+stream
+q 0.00 0.00 0.00 rg
+/G566 gs
+62.160 0 0 14.640 406.800 736.104 cm /I287 Do Q
+endstream
+endobj
+568 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+569 0 obj
+<</Length 76>>
+stream
+q 0.00 0.00 0.00 rg
+/G568 gs
+45.120 0 0 17.280 475.920 733.176 cm /I290 Do Q
+endstream
+endobj
+570 0 obj
+<<
+/Type /ExtGState
+/AIS false
+/ca 1.00
+/BM /Multiply
+>>
+endobj
+571 0 obj
+<</Length 76>>
+stream
+q 0.00 0.00 0.00 rg
+/G570 gs
+38.400 0 0 14.640 529.704 736.104 cm /I293 Do Q
+endstream
+endobj
+xref
+0 575
+0000000000 65535 f 
+0000000009 00000 n 
+0000000121 00000 n 
+0000000468 00000 n 
+0000005944 00000 n 
+0000000543 00000 n 
+0000000587 00000 n 
+0000006010 00000 n 
+0000006115 00000 n 
+0000006331 00000 n 
+0000006547 00000 n 
+0000006764 00000 n 
+0000006981 00000 n 
+0000007172 00000 n 
+0000007387 00000 n 
+0000007607 00000 n 
+0000007751 00000 n 
+0000007965 00000 n 
+0000008159 00000 n 
+0000008324 00000 n 
+0000008543 00000 n 
+0000008749 00000 n 
+0000008955 00000 n 
+0000009161 00000 n 
+0000009381 00000 n 
+0000009570 00000 n 
+0000009785 00000 n 
+0000009953 00000 n 
+0000010168 00000 n 
+0000010336 00000 n 
+0000010551 00000 n 
+0000010719 00000 n 
+0000010934 00000 n 
+0000011102 00000 n 
+0000011317 00000 n 
+0000011485 00000 n 
+0000011700 00000 n 
+0000011915 00000 n 
+0000012083 00000 n 
+0000012298 00000 n 
+0000012466 00000 n 
+0000012681 00000 n 
+0000012849 00000 n 
+0000013064 00000 n 
+0000013279 00000 n 
+0000013447 00000 n 
+0000013662 00000 n 
+0000013851 00000 n 
+0000014066 00000 n 
+0000014255 00000 n 
+0000014470 00000 n 
+0000014659 00000 n 
+0000014874 00000 n 
+0000015070 00000 n 
+0000015266 00000 n 
+0000015378 00000 n 
+0000015548 00000 n 
+0000015723 00000 n 
+0000015943 00000 n 
+0000016094 00000 n 
+0000016247 00000 n 
+0000016320 00000 n 
+0000016433 00000 n 
+0000016506 00000 n 
+0000016619 00000 n 
+0000016692 00000 n 
+0000016805 00000 n 
+0000016878 00000 n 
+0000016992 00000 n 
+0000017065 00000 n 
+0000017178 00000 n 
+0000017251 00000 n 
+0000017363 00000 n 
+0000017436 00000 n 
+0000017548 00000 n 
+0000017621 00000 n 
+0000017733 00000 n 
+0000017806 00000 n 
+0000017918 00000 n 
+0000017991 00000 n 
+0000018103 00000 n 
+0000018176 00000 n 
+0000018288 00000 n 
+0000018361 00000 n 
+0000018473 00000 n 
+0000018546 00000 n 
+0000018658 00000 n 
+0000018731 00000 n 
+0000018843 00000 n 
+0000018916 00000 n 
+0000019028 00000 n 
+0000019101 00000 n 
+0000019213 00000 n 
+0000019286 00000 n 
+0000019398 00000 n 
+0000019471 00000 n 
+0000019583 00000 n 
+0000019656 00000 n 
+0000019768 00000 n 
+0000019841 00000 n 
+0000019953 00000 n 
+0000020027 00000 n 
+0000020141 00000 n 
+0000020215 00000 n 
+0000020329 00000 n 
+0000020403 00000 n 
+0000020517 00000 n 
+0000020591 00000 n 
+0000020705 00000 n 
+0000020779 00000 n 
+0000020893 00000 n 
+0000020967 00000 n 
+0000021080 00000 n 
+0000021154 00000 n 
+0000021267 00000 n 
+0000021341 00000 n 
+0000021455 00000 n 
+0000021529 00000 n 
+0000021643 00000 n 
+0000021717 00000 n 
+0000021832 00000 n 
+0000021906 00000 n 
+0000022021 00000 n 
+0000022095 00000 n 
+0000022210 00000 n 
+0000022284 00000 n 
+0000022399 00000 n 
+0000022473 00000 n 
+0000022587 00000 n 
+0000022661 00000 n 
+0000022775 00000 n 
+0000022849 00000 n 
+0000022962 00000 n 
+0000023036 00000 n 
+0000023151 00000 n 
+0000023225 00000 n 
+0000023339 00000 n 
+0000023413 00000 n 
+0000023527 00000 n 
+0000023601 00000 n 
+0000023715 00000 n 
+0000023826 00000 n 
+0000023967 00000 n 
+0000024112 00000 n 
+0000024258 00000 n 
+0000024405 00000 n 
+0000024550 00000 n 
+0000024693 00000 n 
+0000024834 00000 n 
+0000024981 00000 n 
+0000025123 00000 n 
+0000025268 00000 n 
+0000025408 00000 n 
+0000025555 00000 n 
+0000025695 00000 n 
+0000025850 00000 n 
+0000025994 00000 n 
+0000026148 00000 n 
+0000026288 00000 n 
+0000026434 00000 n 
+0000026578 00000 n 
+0000026694 00000 n 
+0000026840 00000 n 
+0000026987 00000 n 
+0000027137 00000 n 
+0000027285 00000 n 
+0000027428 00000 n 
+0000027578 00000 n 
+0000027730 00000 n 
+0000027881 00000 n 
+0000028034 00000 n 
+0000028184 00000 n 
+0000028335 00000 n 
+0000028480 00000 n 
+0000028688 00000 n 
+0000028898 00000 n 
+0000029080 00000 n 
+0000029241 00000 n 
+0000029380 00000 n 
+0000029523 00000 n 
+0000029667 00000 n 
+0000029815 00000 n 
+0000029955 00000 n 
+0000030094 00000 n 
+0000030234 00000 n 
+0000030381 00000 n 
+0000030522 00000 n 
+0000030666 00000 n 
+0000030805 00000 n 
+0000030945 00000 n 
+0000031086 00000 n 
+0000031225 00000 n 
+0000031366 00000 n 
+0000031514 00000 n 
+0000031653 00000 n 
+0000031795 00000 n 
+0000031937 00000 n 
+0000032082 00000 n 
+0000032228 00000 n 
+0000032368 00000 n 
+0000032515 00000 n 
+0000032658 00000 n 
+0000032802 00000 n 
+0000032941 00000 n 
+0000033086 00000 n 
+0000033232 00000 n 
+0000033372 00000 n 
+0000033516 00000 n 
+0000033660 00000 n 
+0000033798 00000 n 
+0000033950 00000 n 
+0000034089 00000 n 
+0000034233 00000 n 
+0000034373 00000 n 
+0000034511 00000 n 
+0000034658 00000 n 
+0000034803 00000 n 
+0000034946 00000 n 
+0000035090 00000 n 
+0000035234 00000 n 
+0000035374 00000 n 
+0000035521 00000 n 
+0000035753 00000 n 
+0000035898 00000 n 
+0000036053 00000 n 
+0000036198 00000 n 
+0000036342 00000 n 
+0000036501 00000 n 
+0000036659 00000 n 
+0000036814 00000 n 
+0000036971 00000 n 
+0000037110 00000 n 
+0000037251 00000 n 
+0000037390 00000 n 
+0000037529 00000 n 
+0000037668 00000 n 
+0000037812 00000 n 
+0000037956 00000 n 
+0000038099 00000 n 
+0000038245 00000 n 
+0000038391 00000 n 
+0000038531 00000 n 
+0000038679 00000 n 
+0000038818 00000 n 
+0000038958 00000 n 
+0000039096 00000 n 
+0000039238 00000 n 
+0000039377 00000 n 
+0000039518 00000 n 
+0000039657 00000 n 
+0000039802 00000 n 
+0000039943 00000 n 
+0000040082 00000 n 
+0000040223 00000 n 
+0000040362 00000 n 
+0000040503 00000 n 
+0000040642 00000 n 
+0000040784 00000 n 
+0000040923 00000 n 
+0000041063 00000 n 
+0000041204 00000 n 
+0000041345 00000 n 
+0000041487 00000 n 
+0000041627 00000 n 
+0000041772 00000 n 
+0000041916 00000 n 
+0000042061 00000 n 
+0000042206 00000 n 
+0000042347 00000 n 
+0000042489 00000 n 
+0000042629 00000 n 
+0000042771 00000 n 
+0000042914 00000 n 
+0000043051 00000 n 
+0000043189 00000 n 
+0000043327 00000 n 
+0000043470 00000 n 
+0000043615 00000 n 
+0000043757 00000 n 
+0000043898 00000 n 
+0000044039 00000 n 
+0000044183 00000 n 
+0000044321 00000 n 
+0000044460 00000 n 
+0000044598 00000 n 
+0000044780 00000 n 
+0000044917 00000 n 
+0000044991 00000 n 
+0000045781 00000 n 
+0000045907 00000 n 
+0000045981 00000 n 
+0000046597 00000 n 
+0000046723 00000 n 
+0000046797 00000 n 
+0000047275 00000 n 
+0000003228 00000 n 
+0000047401 00000 n 
+0000047619 00000 n 
+0000047837 00000 n 
+0000048055 00000 n 
+0000048273 00000 n 
+0000048465 00000 n 
+0000048681 00000 n 
+0000048902 00000 n 
+0000049047 00000 n 
+0000049262 00000 n 
+0000049457 00000 n 
+0000049623 00000 n 
+0000049843 00000 n 
+0000050059 00000 n 
+0000050263 00000 n 
+0000050467 00000 n 
+0000050675 00000 n 
+0000050883 00000 n 
+0000051087 00000 n 
+0000051296 00000 n 
+0000051487 00000 n 
+0000051678 00000 n 
+0000051894 00000 n 
+0000052110 00000 n 
+0000052325 00000 n 
+0000052525 00000 n 
+0000052722 00000 n 
+0000052919 00000 n 
+0000053135 00000 n 
+0000053351 00000 n 
+0000053567 00000 n 
+0000053744 00000 n 
+0000053934 00000 n 
+0000054150 00000 n 
+0000054366 00000 n 
+0000054582 00000 n 
+0000054798 00000 n 
+0000055014 00000 n 
+0000055229 00000 n 
+0000055444 00000 n 
+0000055659 00000 n 
+0000055874 00000 n 
+0000056045 00000 n 
+0000056221 00000 n 
+0000056442 00000 n 
+0000056594 00000 n 
+0000056748 00000 n 
+0000056822 00000 n 
+0000056937 00000 n 
+0000057011 00000 n 
+0000057126 00000 n 
+0000057200 00000 n 
+0000057315 00000 n 
+0000057389 00000 n 
+0000057505 00000 n 
+0000057579 00000 n 
+0000057694 00000 n 
+0000057768 00000 n 
+0000057882 00000 n 
+0000057956 00000 n 
+0000058070 00000 n 
+0000058144 00000 n 
+0000058258 00000 n 
+0000058332 00000 n 
+0000058446 00000 n 
+0000058520 00000 n 
+0000058634 00000 n 
+0000058708 00000 n 
+0000058822 00000 n 
+0000058896 00000 n 
+0000059010 00000 n 
+0000059084 00000 n 
+0000059198 00000 n 
+0000059272 00000 n 
+0000059386 00000 n 
+0000059460 00000 n 
+0000059574 00000 n 
+0000059648 00000 n 
+0000059762 00000 n 
+0000059836 00000 n 
+0000059950 00000 n 
+0000060024 00000 n 
+0000060138 00000 n 
+0000060212 00000 n 
+0000060326 00000 n 
+0000060400 00000 n 
+0000060514 00000 n 
+0000060588 00000 n 
+0000060702 00000 n 
+0000060776 00000 n 
+0000060890 00000 n 
+0000060964 00000 n 
+0000061078 00000 n 
+0000061152 00000 n 
+0000061266 00000 n 
+0000061340 00000 n 
+0000061454 00000 n 
+0000061528 00000 n 
+0000061641 00000 n 
+0000061715 00000 n 
+0000061828 00000 n 
+0000061902 00000 n 
+0000062016 00000 n 
+0000062090 00000 n 
+0000062204 00000 n 
+0000062278 00000 n 
+0000062393 00000 n 
+0000062467 00000 n 
+0000062582 00000 n 
+0000062656 00000 n 
+0000062771 00000 n 
+0000062845 00000 n 
+0000062960 00000 n 
+0000063034 00000 n 
+0000063148 00000 n 
+0000063222 00000 n 
+0000063336 00000 n 
+0000063410 00000 n 
+0000063523 00000 n 
+0000063597 00000 n 
+0000063712 00000 n 
+0000063786 00000 n 
+0000063900 00000 n 
+0000063974 00000 n 
+0000064088 00000 n 
+0000064162 00000 n 
+0000064276 00000 n 
+0000064417 00000 n 
+0000064562 00000 n 
+0000064708 00000 n 
+0000064855 00000 n 
+0000065000 00000 n 
+0000065143 00000 n 
+0000065284 00000 n 
+0000065431 00000 n 
+0000065573 00000 n 
+0000065718 00000 n 
+0000065858 00000 n 
+0000066005 00000 n 
+0000066145 00000 n 
+0000066300 00000 n 
+0000066444 00000 n 
+0000066598 00000 n 
+0000066738 00000 n 
+0000066884 00000 n 
+0000067028 00000 n 
+0000067174 00000 n 
+0000067321 00000 n 
+0000067471 00000 n 
+0000067619 00000 n 
+0000067762 00000 n 
+0000067912 00000 n 
+0000068064 00000 n 
+0000068215 00000 n 
+0000068368 00000 n 
+0000068518 00000 n 
+0000068669 00000 n 
+0000068814 00000 n 
+0000069022 00000 n 
+0000069232 00000 n 
+0000069414 00000 n 
+0000069575 00000 n 
+0000069714 00000 n 
+0000069857 00000 n 
+0000070001 00000 n 
+0000070149 00000 n 
+0000070289 00000 n 
+0000070428 00000 n 
+0000070568 00000 n 
+0000070715 00000 n 
+0000070856 00000 n 
+0000071000 00000 n 
+0000071139 00000 n 
+0000071279 00000 n 
+0000071420 00000 n 
+0000071559 00000 n 
+0000071700 00000 n 
+0000071848 00000 n 
+0000071987 00000 n 
+0000072129 00000 n 
+0000072271 00000 n 
+0000072416 00000 n 
+0000072562 00000 n 
+0000072702 00000 n 
+0000072849 00000 n 
+0000072992 00000 n 
+0000073136 00000 n 
+0000073275 00000 n 
+0000073420 00000 n 
+0000073566 00000 n 
+0000073706 00000 n 
+0000073850 00000 n 
+0000073994 00000 n 
+0000074132 00000 n 
+0000074284 00000 n 
+0000074423 00000 n 
+0000074567 00000 n 
+0000074707 00000 n 
+0000074845 00000 n 
+0000074992 00000 n 
+0000075137 00000 n 
+0000075280 00000 n 
+0000075424 00000 n 
+0000075568 00000 n 
+0000075708 00000 n 
+0000075855 00000 n 
+0000076087 00000 n 
+0000076232 00000 n 
+0000076387 00000 n 
+0000076532 00000 n 
+0000076676 00000 n 
+0000076835 00000 n 
+0000076993 00000 n 
+0000077148 00000 n 
+0000077305 00000 n 
+0000077444 00000 n 
+0000077585 00000 n 
+0000077724 00000 n 
+0000077863 00000 n 
+0000078002 00000 n 
+0000078146 00000 n 
+0000078290 00000 n 
+0000078433 00000 n 
+0000078579 00000 n 
+0000078725 00000 n 
+0000078865 00000 n 
+0000079013 00000 n 
+0000079152 00000 n 
+0000079292 00000 n 
+0000079430 00000 n 
+0000079572 00000 n 
+0000079711 00000 n 
+0000079852 00000 n 
+0000079991 00000 n 
+0000080136 00000 n 
+0000080277 00000 n 
+0000080416 00000 n 
+0000080557 00000 n 
+0000080696 00000 n 
+0000080837 00000 n 
+0000080976 00000 n 
+0000081118 00000 n 
+0000081257 00000 n 
+0000081397 00000 n 
+0000081538 00000 n 
+0000081679 00000 n 
+0000081821 00000 n 
+0000081961 00000 n 
+0000082106 00000 n 
+0000082250 00000 n 
+0000082395 00000 n 
+0000082540 00000 n 
+0000082681 00000 n 
+0000082823 00000 n 
+0000082963 00000 n 
+0000083105 00000 n 
+0000083248 00000 n 
+0000083385 00000 n 
+0000083523 00000 n 
+0000083661 00000 n 
+0000083804 00000 n 
+0000083949 00000 n 
+0000084091 00000 n 
+0000084232 00000 n 
+0000084373 00000 n 
+0000084517 00000 n 
+0000084655 00000 n 
+0000084794 00000 n 
+0000084932 00000 n 
+0000085114 00000 n 
+0000085251 00000 n 
+0000085325 00000 n 
+0000085451 00000 n 
+0000085525 00000 n 
+0000085651 00000 n 
+0000085725 00000 n 
+0000000156 00000 n 
+0000000278 00000 n 
+0000000372 00000 n 
+trailer
+<<
+/Size 575
+/Root 1 0 R
+/Info 2 0 R
+>>
+startxref
+85851
+%%EOF

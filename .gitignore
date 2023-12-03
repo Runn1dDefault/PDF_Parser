@@ -1,0 +1,29 @@
+# Compiled Python bytecode
+__pycache__/
+*.py[cod]
+*/__pycache__/
+
+# Compiled Cpython files
+*.pyc
+*.pyo
+
+# Log files
+*.log
+
+# JetBrains IDE
+.idea/
+*.iml
+
+# Applications
+*.exe
+
+# Enviropments
+venv/
+
+# Files
+*.xls
+*.xlsx
+logs/
+build/
+dist/
+*.spec
